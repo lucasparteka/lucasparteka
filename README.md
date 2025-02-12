@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">I'm a Frontend Developer who loves crafting beautiful, fast, and user-friendly web experiences. I work mainly with React, Next.js, and TypeScript, always striving for clean code and great performance.</h3>
+<h2 align="left">Hi 👋, I'm Lucas</h2>
+<p align="left">I'm a Frontend Developer who loves crafting beautiful, fast, and user-friendly web experiences. I work mainly with React, Next.js, and TypeScript, always striving for clean code and great performance.</p>
 
 - 🔭 I’m currently working on **Arezzo's e-commerces**
-
 - 📫 How to reach me **lucasparteka@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
